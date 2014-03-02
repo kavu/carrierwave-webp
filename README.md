@@ -39,6 +39,12 @@ class ImageUploader < ::CarrierWave::Uploader::Base
 end
 ```
 
+You can pass options to [webp_ffi](https://github.com/le0pard/webp-ffi):
+``` ruby
+process convert_to_webp: [{ quality: 60, method: 6 }]
+```
+
+
 ## Contributing
 
 1. Fork it
