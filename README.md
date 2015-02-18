@@ -11,7 +11,7 @@
 
 This gem provides an ugly, but working solution for converting uploads to the WebP format.
 
-I created it as an expirement, so gem's API can change in the future. I you're warned!
+I created it as an expirement, so gem's API can change in the future. You've been warned!
 
 ## Installation
 
