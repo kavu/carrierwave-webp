@@ -23,6 +23,8 @@ module CarrierWave
             content_type: 'image/webp'
           })
 
+          FileUtils.rm(webp_path) rescue nil
+
           instance_variable_set('@filename', old_filename)
 
           img
