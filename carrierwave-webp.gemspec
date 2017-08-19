@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ['Max Riveiro']
   spec.email         = ['kavu13@gmail.com']
   spec.description   = %q{CarrierWave module for processing your uploads into WebP format}
-  spec.summary       = %q{CarrierWave module for processing   your uploads into WebP format}
+  spec.summary       = %q{CarrierWave module for processing your uploads into WebP format}
   spec.homepage      = 'https://github.com/kavu/carrierwave-webp'
   spec.license       = 'MIT'
 
