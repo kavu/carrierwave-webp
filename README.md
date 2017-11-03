@@ -1,6 +1,7 @@
 # Carrierwave::WebP
 
 [![experimental](https://rawgithub.com/hughsk/stability-badges/master/dist/experimental.svg)](http://github.com/hughsk/stability-badges)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkavu%2Fcarrierwave-webp.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkavu%2Fcarrierwave-webp?ref=badge_shield)
 
 [![Gem Version](https://badge.fury.io/rb/carrierwave-webp.png)](http://badge.fury.io/rb/carrierwave-webp)
 [![Code Climate](https://codeclimate.com/github/kavu/carrierwave-webp.png)](https://codeclimate.com/github/kavu/carrierwave-webp)
@@ -52,3 +53,7 @@ process convert_to_webp: [{ quality: 60, method: 6 }]
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkavu%2Fcarrierwave-webp.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkavu%2Fcarrierwave-webp?ref=badge_large)
